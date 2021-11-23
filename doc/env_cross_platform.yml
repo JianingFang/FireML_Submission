@@ -1,0 +1,22 @@
+name: FireML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - pandas
+  - xarray
+  - numpy
+  - pytorch
+  - torchvision
+  - pyshp
+  - gdal
+  - notebook
+  - geopandas
+  - rasterio
+  - geocube
+  - scikit-image
+  - tqdm
+  - ipywidgets
+prefix: /opt/anaconda3/envs/FireML
