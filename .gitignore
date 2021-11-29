@@ -12,6 +12,8 @@ auto-save-list
 tramp
 .\#*
 
+*.pickle
+
 # Org-mode
 .org-id-locations
 *_archive
