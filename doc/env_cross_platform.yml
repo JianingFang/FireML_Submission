@@ -21,4 +21,5 @@ dependencies:
   - pip
   - pip:
     - torchvision
+    - jupyterlab
 prefix: /opt/anaconda3/envs/FireML
