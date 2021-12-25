@@ -1,5 +1,7 @@
 # ConvLSTM
 
+The code is adapted from https://sladewinter.medium.com/video-frame-prediction-using-convlstm-network-in-pytorch-b5210a6ce582 and adapted to fit fire prediction task
+
 This repo contains implementation and training for a Convolutional LSTM Network, at the heart of 
 which lies the ConvLSTM cell, introduced by Shi et al., 2015 in 
 Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting https://arxiv.org/abs/1506.04214
